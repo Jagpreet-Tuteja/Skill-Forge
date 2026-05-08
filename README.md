@@ -116,7 +116,7 @@ SkillForge combines the power of:
 into one intelligent platform.
 
 Instead of switching between multiple websites, users can grow their careers in one place.
-
+SkillForge aims to create a modern and accessible learning ecosystem where users can learn practical skills, improve consistently, and grow their careers through guided and personalized experiences.
 ---
 
 # 🎯 Target Users
