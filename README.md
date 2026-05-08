@@ -353,7 +353,7 @@ Feel free to fork the repository and create pull requests.
 
 # 👨‍💻 Author
 
-Developed by **Jagpreet Tuteja**
+Developed by **Jagpreet Singh Tuteja**
 
 ---
 
