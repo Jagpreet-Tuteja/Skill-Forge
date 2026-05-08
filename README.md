@@ -47,11 +47,15 @@ SkillForge aims to unify learning, practice, analytics, and career guidance into
 
 ---
 
-## 📚 Learning Hub
-- Structured courses
-- Skill-based learning paths
-- Progress tracking
-- Resource recommendations
+ ## 📚 Learning Hub
+- Industry-focused courses and tutorials
+- Structured skill-based learning paths
+- Personalized learning recommendations
+- Creator and instructor course publishing system
+- Course monetization and earning opportunities for instructors
+- Interactive and career-focused learning experience
+- Progress tracking and performance insights
+- Scalable modern digital learning ecosystem
 
 ---
 
